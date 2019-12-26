@@ -1,2 +1,2 @@
 # mail_4d
-Sending emails on 4D without "Internet Command" plugin.
+This is a component for 4D to send emails without "Internet Command" plugin.
